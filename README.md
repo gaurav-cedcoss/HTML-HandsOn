@@ -10,5 +10,6 @@ Tasks assigned for HTML.
 <body>
     <h1>Hello</h1>  <!-- Task 1-->
      <h2>CatPhotoApp</h2>   <!-- Task 2-->
+    <p>Hello Paragraph</p>
 </body>
 </html>
